@@ -6,10 +6,10 @@ Nature;Climate adaptation;10;3;8;8;8;0,2
 Nature;Emissions during construction;2;10;5;5;7;0,25
 Nature;Energy use during lifecycle;2;10;8;8;8;0,2
 Nature;Aquatic life;9;10;5;5;5;0,1
-Companies;Safety;8;4;7;7;7;0,2
+Companies;Safety;8;8;7;7;7;0,2
 Companies;Capacity;8;3;8;8;8;0,4
-Companies;Durability;8;2;8;9;8;0,3
-Companies;Life cycle costs;5;3;7;7;7;0,1
+Companies;Durability;8;5;8;9;8;0,3
+Companies;Life cycle costs;5;6;7;7;7;0,1
 Government;Initial cost;3;10;6;4;6;0,15
 Government;Safety;8;4;7;7;7;0,13
 Government;Capacity;8;3;8;8;8;0,15
@@ -20,9 +20,9 @@ Government;Climate adaptation;5;3;7;7;7;0,1
 Government;Emissions;2;10;5;4;5;0,1
 Government;Accessibility (transport);8;3;8;6;8;0,08
 Government;Constructability;3;10;6;4;6;0,07
-Citizents;Railway functionality;10;8;10;4;10;0,25
-Citizents;Safety;6;8;9;7;9;0,2
-Citizents;Construction Disruption;4;10;5;3;5;0,2
-Citizents;Long-term functionality;8;1;8;3;8;0,15
-Citizents;Environmental impact;5;9;5;6;6;0,1
-Citizents;Visual appeal;8;9;5;6;7;0,1
+Citizents;Railway functionality;10;4;10;8;10;0,25
+Citizents;Safety;8;8;9;9;9;0,2
+Citizents;Construction Disruption;4;10;5;5;5;0,2
+Citizents;Long-term functionality;8;3;8;8;8;0,15
+Citizents;Environmental impact;5;9;5;5;6;0,1
+Citizents;Visual appeal;8;9;7;7;7;0,1
