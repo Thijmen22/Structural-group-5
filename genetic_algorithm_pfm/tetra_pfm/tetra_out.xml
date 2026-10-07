@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Solution Model="SolutionService">
+<<<<<<< Updated upstream
   <Alternative Name="A1" Value="9.2034794149729091e+00" />
   <Alternative Name="A2" Value="6.1666786028877752e+01" />
   <Alternative Name="A3" Value="7.5809662511292984e+01" />
@@ -20,4 +21,34 @@
   <Alternative Name="A18" Value="9.9777481320787302e+01" />
   <Alternative Name="A19" Value="6.9106403434624767e+01" />
   <Alternative Name="A20" Value="9.3051278676103578e+01" />
+=======
+  <Alternative Name="A1" Value="0.0000000000000000e+00" />
+  <Alternative Name="A2" Value="6.2956825486838341e+01" />
+  <Alternative Name="A3" Value="7.7072896573139914e+01" />
+  <Alternative Name="A4" Value="8.2836286825587649e+01" />
+  <Alternative Name="A5" Value="8.7035978772865704e+01" />
+  <Alternative Name="A6" Value="8.7611969975471922e+01" />
+  <Alternative Name="A7" Value="9.4106196307647721e+01" />
+  <Alternative Name="A8" Value="5.1303796997764044e+00" />
+  <Alternative Name="A9" Value="9.3577507287838657e+01" />
+  <Alternative Name="A10" Value="4.3102826716905867e+00" />
+  <Alternative Name="A11" Value="4.3102826716905867e+00" />
+  <Alternative Name="A12" Value="9.3577507287838657e+01" />
+  <Alternative Name="A13" Value="1.0000000000000000e+02" />
+  <Alternative Name="A14" Value="9.6155274340060359e+01" />
+  <Alternative Name="A15" Value="1.0000000000000000e+02" />
+  <Alternative Name="A16" Value="9.4924562601150868e+01" />
+  <Alternative Name="A17" Value="9.4859950361350883e+01" />
+  <Alternative Name="A18" Value="9.4859950361350883e+01" />
+  <Alternative Name="A19" Value="9.4859950361350883e+01" />
+  <Alternative Name="A20" Value="9.4859950361350883e+01" />
+  <Alternative Name="A21" Value="9.4859950361350883e+01" />
+  <Alternative Name="A22" Value="9.4859950361350883e+01" />
+  <Alternative Name="A23" Value="9.4859950361350883e+01" />
+  <Alternative Name="A24" Value="9.4859950361350883e+01" />
+  <Alternative Name="A25" Value="9.4859950361350883e+01" />
+  <Alternative Name="A26" Value="9.4859950361350883e+01" />
+  <Alternative Name="A27" Value="9.7217821315929996e+01" />
+  <Alternative Name="A28" Value="9.4859950361350883e+01" />
+>>>>>>> Stashed changes
 </Solution>
